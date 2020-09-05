@@ -6,7 +6,11 @@ To-do:
 
 - [ ] Implement [https://github.com/fabasoad/setup-cobol-action](https://github.com/fabasoad/setup-cobol-action)
 - [ ] [Sintaxis de flujo de trabajo para acciones de GitHub](https://docs.github.com/es/actions/reference/workflow-syntax-for-github-actions)
- 
+
+## Courses
+
+- [IBM Training](https://www.ibm.com/training/search?query=cobol)
+
 
 ## Documentation 
 
